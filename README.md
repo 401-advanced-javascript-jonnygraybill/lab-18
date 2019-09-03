@@ -3,6 +3,7 @@
 ### Authors: Jonny
 
 * Worked on UML pic w/Adriana
+* There was some weird stuff going on with my package.json file, but it somehow still works the way it is supposed to.
 
 ### Links and Resources
 * [submission PR]() 
