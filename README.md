@@ -2,8 +2,12 @@
 
 ### Authors: Jonny
 
+* Worked on UML pic w/Adriana
+
 ### Links and Resources
-* [submission PR](https://github.com/401-advanced-javascript-jonnygraybill/socket-test) 
+* [submission PR]() 
+
+* [travis]([![Build Status](https://www.travis-ci.com/401-advanced-javascript-jonnygraybill/lab-18.svg?branch=master)](https://www.travis-ci.com/401-advanced-javascript-jonnygraybill/lab-18))
 
 ### Modules
 #### server.js
