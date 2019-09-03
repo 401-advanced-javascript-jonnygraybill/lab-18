@@ -1,0 +1,20 @@
+{
+  "name": "lab-18",
+  "version": "1.0.0",
+  "description": "### Authors: Jonny",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-jonnygraybill/lab-18.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-jonnygraybill/lab-18/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-jonnygraybill/lab-18#readme"
+}
